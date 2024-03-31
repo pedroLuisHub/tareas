@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    width: 80%;
+    margin: 30px auto;
+    font-family: sans-serif;
+}
+
+h1 {
+   color: orange;
+   text-align: center;  
+   margin-bottom: 20px;
+}
+
+form{
+    margin: 30px 20px;
+}
+
+label{
+   color:orange;
+   text-transform: uppercase;
+}
+
+#v1, #v2 {
+   height: 25px;
+   font-size: 1.2em;
+   padding-left: 5;
+}
+
+input[type="submit"] {
+    color: orange;
+    padding: 5px 10px;
+}
+
+div {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 5px;
+    padding: 20px 10px;
+    box-shadow: 0 0 10px 2px rgb(0, 0, 0);
+}
+
+.text{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
