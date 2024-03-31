@@ -1,8 +1,11 @@
-body{
-    margin: 0;
-    padding: 0;
-    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    background: linear-gradient(120deg, #6C3483, #58D68D);
-    height: 100vh;
+.tituloTop {
+    height: 300px; /* Cambiar 300px al valor deseado */
+    background-color: #f0f0f0; /* Color de fondo opcional para visualizar la sección */
+    padding: 20px; /* Añadir relleno opcional para espaciar el contenido */
+}
 
+
+h1 {
+    font-size: 3em; /* Tamaño de fuente más grande */
+    text-align: center; /* Centrar el texto horizontalmente */
 }
