@@ -1,11 +1,74 @@
 .tituloTop {
-    height: 300px; /* Cambiar 300px al valor deseado */
+    height: 200px; /* Cambiar 300px al valor deseado */
     background-color: #f0f0f0; /* Color de fondo opcional para visualizar la sección */
     padding: 20px; /* Añadir relleno opcional para espaciar el contenido */
 }
 
+.juegos_mas_populares_2023 {
+    text-align: left; padding-left: 200px;
+}
+
+.familia_juegos {
+    margin-top: 50px;
+}
+
+.familia_battle_royale {
+    margin-top: 150px;
+}
+
+.texto_juegos {
+    padding-right: 60%; font-size: 20px;
+}
+
+.titulo_juegos {
+    font-size: 25px;
+}
+
+.titulo_lol {
+    height: 25px; margin-top: 45px;
+}
+
+.titulo_dota {
+    height: 25px; margin-top: 120px;
+}
+
+.titulo_csgo {
+    height: 25px; margin-top: 200px;
+}
+
+.titulo_pubg {
+    height: 25px; margin-top: 45px;
+}
+
+.titulo_apex {
+    height: 25px; margin-top: 150px;
+}
 
 h1 {
-    font-size: 3em; /* Tamaño de fuente más grande */
+    font-size: 5em; /* Tamaño de fuente más grande */
     text-align: center; /* Centrar el texto horizontalmente */
+}
+
+.imagenes {
+    border: 4px solid black;
+}
+
+.img_lol {
+float: right; margin-top: 140px; margin-right: 220px;  height: 320px;
+}
+
+.img_dota {
+    clear: both; float: right; margin-top: 100px; margin-right: 220px; height: 320px;  
+}
+
+.img_csgo {
+    clear: both; float: right; margin-top: 180px; margin-right: 310px; height: 300px;
+}
+
+.img_pubg {
+    clear: both; float: right; margin-top: 280px; margin-right: 180px; height: 350px;
+}
+
+.img_apex {
+    clear: both; float: right; margin-top: 200px; margin-right: 200px; height: 350px;
 }
